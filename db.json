@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+},
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1204088791.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1204088791.jpg"
+      },
+      {
+         "idevaluador":"0904010741",
+         "nombres":"TORRES NAVARRETE JENNY",
+         "area":"VICERECTORADO ACADEMICO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0904010741.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0904010741.jpg"
+      },
+      {
+         "idevaluador":"1309449344",
+         "nombres":"VARELA CARRANZA YESENIA",
+         "area":"PRESUPUESTO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1309449344.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1309449344.jpg"
+      },
+      {
+         "idevaluador":"1200759718",
+         "nombres":"VIVAS MOREIRA ROQUE",
+         "area":"UNIDAD DE POSGRADO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200759718.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200759718.jpg"
+      },
+      {
+         "idevaluador":"0601918816",
+         "nombres":"ZAMBRANO CARLOS EDISON",
+         "area":"UNIDAD DE INVESTIGACION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0601918816.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0601918816.jpg"
+      }
+   ]
+}
