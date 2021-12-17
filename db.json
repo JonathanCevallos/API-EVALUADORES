@@ -1,14 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  
    "listaaevaluador":[
       {
          "idevaluador":"0916702588",
@@ -33,6 +23,216 @@
       },
       {
          "idevaluador":"1707825376",
+         "nombres":"AVIL\u00c9S CEVALLOS FL\u00c9RIDO",
+         "area":"APOYO A LA GESTION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1707825376.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1707825376.jpg"
+      },
+      {
+         "idevaluador":"1203140395",
+         "nombres":"BAJA\u00d1A MENDIETA INES DE LA LUZ",
+         "area":"FACULTAD DE CIENCIAS DE LA SALUD",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1203140395.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1203140395.jpg"
+      },
+      {
+         "idevaluador":"1200984258",
+         "nombres":"BARZOLA MIRANDA SONNIA ESTHER",
+         "area":"FACULTAD CIENCIAS DE LA INDUSTRIA Y PRODUCCION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200984258.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200984258.jpg"
+      },
+      {
+         "idevaluador":"1203929896",
+         "nombres":"CARRANZA PATI\u00d1O MERCEDES",
+         "area":"SUBDECANATO FACULTAD CIENCIAS AGROPECUARIAS",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1203929896.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1203929896.jpg"
+      },
+      {
+         "idevaluador":"1204077398",
+         "nombres":"CARRE\u00d1O SANDOYA STALIN",
+         "area":"TECNOLOGIAS DE INFORMACION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1204077398.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1204077398.jpg"
+      },
+      {
+         "idevaluador":"1201634571",
+         "nombres":"CEREZO SEGOVIA BADIE ANNERIZ",
+         "area":"FACULTAD CIENCIAS DE LA EDUCACION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1201634571.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1201634571.jpg"
+      },
+      {
+         "idevaluador":"1202869838",
+         "nombres":"CHIRIBOGA WASHINGTON",
+         "area":"FACULTAD CIENCIAS DE LA INGENIER\u00cdA",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202869838.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202869838.jpg"
+      },
+      {
+         "idevaluador":"1711862779",
+         "nombres":"COBO LITARD ELSYE",
+         "area":"UNIDAD DE ADMISION Y NIVELACION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1711862779.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1711862779.jpg"
+      },
+      {
+         "idevaluador":"1202372999",
+         "nombres":"EDUARDO DIAZ OCAMPO",
+         "area":"RECTORADO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202372999.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202372999.jpg"
+      },
+      {
+         "idevaluador":"1203438427",
+         "nombres":"ESCOBAR TER\u00c1N HAROLD",
+         "area":"DIRECCION ACADEMICA",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1203438427.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1203438427.jpg"
+      },
+      {
+         "idevaluador":"1202806848",
+         "nombres":"GARCIAS FRANCO SANDRA ANGELINA",
+         "area":"FINANCIERO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202806848.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202806848.jpg"
+      },
+      {
+         "idevaluador":"0909376311",
+         "nombres":"MALDONADO CASTRO JENNY",
+         "area":"DIRECCI\u00d3N DE COOPERACI\u00d3N",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0909376311.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0909376311.jpg"
+      },
+      {
+         "idevaluador":"1101862751",
+         "nombres":"MATUTE LEONARDO GONZALO",
+         "area":"DECANATO FACULTAD DE CIENCIAS AGROPECAUARIAS",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1101862751.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1101862751.jpg"
+      },
+      {
+         "idevaluador":"1712896529",
+         "nombres":"MORALES SORNOZA ALEXANDRA MARIBEL",
+         "area":"COMPRAS PUBLICAS",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1712896529.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1712896529.jpg"
+      },
+      {
+         "idevaluador":"1706704424",
+         "nombres":"MOREIRA CASTELLANO AGRIPINA ELENA",
+         "area":"CONTROL DE ACTIVOS Y BODEGA",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1706704424.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1706704424.jpg"
+      },
+      {
+         "idevaluador":"1306833268",
+         "nombres":"P\u00c1RRAGA CEDE\u00d1O MAR\u00cdA EDILMA",
+         "area":"TALENTO HUMANO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1306833268.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1306833268.jpg"
+      },
+      {
+         "idevaluador":"1706661210",
+         "nombres":"PASTRANO QUINTANA EDGAR",
+         "area":"VINCULACION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1706661210.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1706661210.jpg"
+      },
+      {
+         "idevaluador":"0910617034",
+         "nombres":"PICO SALTOS ROBERTO",
+         "area":"VICERECTORADO ADMINISTRATIVO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0910617034.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0910617034.jpg"
+      },
+      {
+         "idevaluador":"0801072513",
+         "nombres":"PICO ZAMBRANO BOL\u00cdVAR OMAR",
+         "area":"PROCURADUR\u00cdA",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0801072513.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0801072513.jpg"
+      },
+      {
+         "idevaluador":"1200830576",
+         "nombres":"PINCAY RIZZO FRANCISCO BORJA",
+         "area":"UNIDAD DE ADMISION Y REGISTRO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200830576.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200830576.jpg"
+      },
+      {
+         "idevaluador":"1201451877",
+         "nombres":"PINTO FERN\u00c1NDEZ EDUARDO",
+         "area":"FINCA LA MARIA",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1201451877.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1201451877.jpg"
+      },
+      {
+         "idevaluador":"1708809585",
+         "nombres":"PI\u00d1EIROS VIVAS V\u00cdCTOR",
+         "area":"BIBLIOTECA",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1708809585.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1708809585.jpg"
+      },
+      {
+         "idevaluador":"1201530597",
+         "nombres":"PLATA MURILLO LUIS",
+         "area":"DIRECCI\u00d3N DE PLANIFICACI\u00d3N Y DESARROLLO UNIVERSITARIO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1201530597.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1201530597.jpg"
+      },
+      {
+         "idevaluador":"1202146013",
+         "nombres":"ROBAYO MU\u00d1OZ GERSSON",
+         "area":"DESARROLLO FISICO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202146013.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202146013.jpg"
+      },
+      {
+         "idevaluador":"1202032858",
+         "nombres":"RODR\u00cdGUEZ REYES F\u00c1TIMA",
+         "area":"BIENESTAR UNIVERSITARIO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202032858.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1202032858.jpg"
+      },
+      {
+         "idevaluador":"1204088791",
+         "nombres":"SANCHEZ FUENTES ESTHER ANGELA",
+         "area":"CONTABILIDAD",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1204088791.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1204088791.jpg"
+      },
+      {
+         "idevaluador":"0904010741",
+         "nombres":"TORRES NAVARRETE JENNY",
+         "area":"VICERECTORADO ACADEMICO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0904010741.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0904010741.jpg"
+      },
+      {
+         "idevaluador":"1309449344",
+         "nombres":"VARELA CARRANZA YESENIA",
+         "area":"PRESUPUESTO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1309449344.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1309449344.jpg"
+      },
+      {
+         "idevaluador":"1200759718",
+         "nombres":"VIVAS MOREIRA ROQUE",
+         "area":"UNIDAD DE POSGRADO",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200759718.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1200759718.jpg"
+      },
+      {
+         "idevaluador":"0601918816",
+         "nombres":"ZAMBRANO CARLOS EDISON",
+         "area":"UNIDAD DE INVESTIGACION",
+         "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0601918816.JPG",
+         "imgjpg":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/0601918816.jpg"
+      }
+   ]
+}
          "nombres":"AVIL\u00c9S CEVALLOS FL\u00c9RIDO",
          "area":"APOYO A LA GESTION",
          "imgJPG":"https:\/\/evaladmin.uteq.edu.ec\/adminimg\/1707825376.JPG",
